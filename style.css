@@ -1,0 +1,55 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans Condensed',sans-serif;
+    font-weight: 100;
+}
+.img-logo
+{
+    margin-left: 40px;
+    height:65px;
+    width:123px;
+}
+.logo-search:hover
+{
+ cursor: pointer;
+}
+#nav
+{
+    background-color:black;
+}
+.nav-link
+{
+    color: #fff;
+}
+
+#toggler
+{
+    background-color: rgb(58, 58, 57);
+
+}
+.pro-img
+{
+    height: 200px;
+    width: 250px;
+}
+
+#foottext
+{
+    color:#ffc107;
+}
+#footerimg2
+{
+    height: 100px;
+    width: 150px;
+}
+#contact
+{
+    background-color: black;
+}
+#baground
+{
+    background-color: black;
+}
